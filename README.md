@@ -1,4 +1,4 @@
-<h1 align="center"><img src='https://emojio.ru/images/apple-b/1f44b-1f3fc.png' alt='smile' width="64" height="64"> Hey! Nice to see you.</h1>
+<h1 align="center">Hey! Nice to see you.</h1>
 <h3 align="center">A passionate frontend developer from Kazakhstan, Aktau</h3>
 
 📫 How to reach me **kkoleganov@mtcom.kz**
