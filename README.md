@@ -1,9 +1,6 @@
-<h1 align="center">Hey! Nice to see you.</h1>
-<h3 align="center">A passionate frontend developer from Kazakhstan, Aktau</h3>
+📫 Для связи со мной**k.koleganov@mtcom.kmg.kz**
 
-📫 How to reach me **k.koleganov@mtcom.kmg.kz**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Больше обо мне:</h3>
 <p align="left">
 <a href="https://instagram.com/koleganov_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koleganov_k" height="30" width="40" /></a>
 </p>
