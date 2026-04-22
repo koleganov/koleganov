@@ -1,4 +1,3 @@
-<h1 align="center">Konstantin Koleganov</h1>
 <h3 align="center">Information Technology Engineer / Frontend Developer | React | TypeScript</h3>
 
 <p align="center">
