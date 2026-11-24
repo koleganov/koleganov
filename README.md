@@ -1,6 +1,6 @@
 <h3 align="left">Information Technology Engineer / Frontend Developer | React | TypeScript</h3>
 
-<p align="center">
+<p align="left">
 Разрабатываю современные веб-приложения с упором на производительность, масштабируемость и удобство пользователя.
 </p>
 
